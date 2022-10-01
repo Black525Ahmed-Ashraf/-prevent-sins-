@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "prevent sins",
+    "version": "1.0",
+    "description": "Chrome extensions to actually prevent disobedience and sins By: Ahmed Ashraf",
+    "content_scripts": [{
+        "matches": ["https://*.com/*"],
+        "js": ["background.js"]
+    }],
+    "host_permissions": [
+        "*://*.example.org/"
+    ],
+    "permissions": [
+        "storage"
+    ],
+    "icons": {
+        "16": "icon_16.png",
+        "48": "icon_48.png",
+        "128": "icon_128.png"
+    }
+
+}
