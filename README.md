@@ -67,5 +67,5 @@ chrome://extensions/
 
 
 ## Connect with us ❤️:
-[facebook](https:facebook.com/black525)
+[facebook](https://www.facebook.com/black525)
 Ahmed Ashraf "Black525"
